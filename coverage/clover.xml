@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1649941997798" clover="3.2.0">
+  <project timestamp="1649941997798" name="All files">
+    <metrics statements="45" coveredstatements="45" conditionals="18" coveredconditionals="18" methods="23" coveredmethods="23" elements="86" coveredelements="86" complexity="0" loc="45" ncloc="45" packages="3" files="6" classes="6"/>
+    <package name="components">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="App.jsx" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/components/App.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+      <file name="Restaurant.jsx" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/components/Restaurant.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="containers">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12"/>
+      <file name="InputContainer.jsx" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/containers/InputContainer.jsx">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="6" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+      </file>
+      <file name="RestaurantContainer.jsx" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/containers/RestaurantContainer.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux">
+      <metrics statements="23" coveredstatements="23" conditionals="18" coveredconditionals="18" methods="8" coveredmethods="8"/>
+      <file name="actions.js" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/redux/actions.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="1" count="9" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+      </file>
+      <file name="reducer.js" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/redux/reducer.js">
+        <metrics statements="17" coveredstatements="17" conditionals="18" coveredconditionals="18" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="13" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="7" type="cond" truecount="5" falsecount="0"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="37" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="44" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="51" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="58" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="65" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
