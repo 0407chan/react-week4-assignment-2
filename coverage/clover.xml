@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1649941997798" clover="3.2.0">
-  <project timestamp="1649941997798" name="All files">
-    <metrics statements="45" coveredstatements="45" conditionals="18" coveredconditionals="18" methods="23" coveredmethods="23" elements="86" coveredelements="86" complexity="0" loc="45" ncloc="45" packages="3" files="6" classes="6"/>
+<coverage generated="1649942496632" clover="3.2.0">
+  <project timestamp="1649942496632" name="All files">
+    <metrics statements="47" coveredstatements="47" conditionals="22" coveredconditionals="22" methods="23" coveredmethods="23" elements="92" coveredelements="92" complexity="0" loc="47" ncloc="47" packages="3" files="6" classes="6"/>
     <package name="components">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
       <file name="App.jsx" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/components/App.jsx">
@@ -17,7 +17,7 @@
       </file>
     </package>
     <package name="containers">
-      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12"/>
+      <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="12" coveredmethods="12"/>
       <file name="InputContainer.jsx" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/containers/InputContainer.jsx">
         <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
         <line num="8" count="6" type="stmt"/>
@@ -36,10 +36,12 @@
         <line num="62" count="1" type="stmt"/>
       </file>
       <file name="RestaurantContainer.jsx" path="/Users/chanho/Desktop/chris/codesoom/react-week4-assignment-2/src/containers/RestaurantContainer.jsx">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
         <line num="6" count="3" type="stmt"/>
-        <line num="10" count="3" type="stmt"/>
-        <line num="13" count="3" type="stmt"/>
+        <line num="10" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
       </file>
     </package>
     <package name="redux">
